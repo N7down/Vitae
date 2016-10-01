@@ -13,13 +13,13 @@ author: Fábio Madeira
 # edit this section with your information
 # biomadeira.github.io - all contents run on /vitae/
 # for a normal use at the base of the server change it to "/"
-baseurl: /Vitae/
+baseurl: /vitae/
 title: Joshua Adams's Resume
 name: Joshua Adams
 email: Joshua.sovanh.adams@gmail.com
 email_full: mailto:joshua.sovanh.adams.@gmail.com
 website: https://n7down.github.io
-#website_full: https://biomadeira.github.io/sustain
+website_full: https://n7down.github.io
 github: n7down
 #twitter: twitter
 linkedin: https://www.linkedin.com/in/joshua-josh-adams-5573bb18
