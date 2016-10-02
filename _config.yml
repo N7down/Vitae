@@ -28,7 +28,7 @@ tel: (614) 353-9628
 #google_maps: 'https://www.google.co.uk/maps/place/44+Perth+St,+Edinburgh,+Edinburgh+City+EH3+5BL'
 address:
 postcode:
-location: Draper UT, USA
+location: Salt Lake City, USA
 #google_analytics: UA-69300817-1
 
 # needed for travis-ci build
