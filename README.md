@@ -10,7 +10,3 @@ Personal resume hosted at [https://n7down.github.io/Resume](https://n7down.githu
 1. Clone this repository with git
 2. Edit the site attributes in `_config.yml` and edit the various entries in `_includes/`
 3. Run `jekyll serve` inside the directory
-
-## Todo
-- [ ] Change repository to Resume
-- [ ] Update n7down.github.io site with Resume link
