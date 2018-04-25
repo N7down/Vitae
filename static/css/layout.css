@@ -4,7 +4,7 @@ body {
     font-family: "Raleway", Helvetica, Arial, sans-serif;
     font-size: 15px;
     line-height: 21px;
-    color: rgb(48, 48, 48);
+    color: #FFFFFF;
     border-top: 5px solid #2155a8;
     border-bottom: 5px solid #2155a8;
 }
@@ -16,14 +16,16 @@ body {
 a {
     text-decoration: none;
     /*background-color: rgba(39, 168, 34, 0.06);*/
+	color: #fff;
 }
 
 a:visited {
     text-decoration: none;
+	color: #fff;
 }
 
 a:hover, a:focus {
-    color: #27A822;
+    color: #ADD8E6;
 }
 
 p, address {
@@ -40,7 +42,7 @@ p, address {
 }
 
 header > h1, section > h1 {
-    color: #2155a8;
+    color: #ADD8E6;
 }
 
 header > h1 {
@@ -89,7 +91,7 @@ article > header > span + span::before {
 }
 
 article > header > span {
-    color: #2155a8;
+    color: #ccffff;
     font-size: 100%;
 }
 
@@ -113,7 +115,7 @@ article > header address + time::before {
 em {
     font-style: normal;
     font-weight: bold;
-    color: rgb(100, 100, 100);
+    color: #FFFFF; 
     /*margin-right: 6px;*/
 }
 
